@@ -1,2 +1,1 @@
-# BMI_Calculator
-A responsive web-based BMI Calculator built using HTML, CSS, and JavaScript that allows users to calculate their Body Mass Index and understand their health category instantly.
+This project is a simple and user-friendly BMI Calculator that takes height and weight as input and displays the BMI value along with the corresponding health status. It is designed with a clean UI and works well across different screen sizes.
